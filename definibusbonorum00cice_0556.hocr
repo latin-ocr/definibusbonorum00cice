@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./definibusbonorum00cice_0556.png"; bbox 0 0 1501 2374; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1368 2319 1383 2353">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1368 2319 1383 2353">
+     <span class='ocr_line' id='line_1_1' title="bbox 1368 2319 1383 2353; baseline -11.333 0"><span class='ocrx_word' id='word_1_1' title='bbox 1368 2319 1383 2353; x_wconf 51' lang='lat' dir='ltr'>Kb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1318 2095 1344 2362">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1318 2095 1344 2362">
+     <span class='ocr_line' id='line_1_2' title="bbox 1318 2095 1344 2362; baseline 267 -1602"><span class='ocrx_word' id='word_1_2' title='bbox 1318 2095 1320 2097; x_wconf 90' lang='lat'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1330 2179 1334 2182; x_wconf 85' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1323 2306 1344 2362; x_wconf 51' lang='lat' dir='ltr'>&amp;z</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1195 2374">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1195 2374">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1195 2374"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1195 2374; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

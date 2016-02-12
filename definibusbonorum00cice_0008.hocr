@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./definibusbonorum00cice_0008.png"; bbox 0 0 1403 2344; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 508 870 1029 997">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 508 870 1029 997">
+     <span class='ocr_line' id='line_1_1' title="bbox 508 870 1029 899; baseline -0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 508 872 583 897; x_wconf 81' lang='lat' dir='ltr'><em>First</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 596 870 710 896; x_wconf 78' lang='lat' dir='ltr'><em>Printed</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 767 888 774 895; x_wconf 85' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 843 887 850 895; x_wconf 88' lang='lat'>.</span> <span class='ocrx_word' id='word_1_5' title='bbox 920 886 927 894; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_6' title='bbox 962 875 1029 899; x_wconf 80' lang='lat'>1914</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 509 919 1028 951; baseline -0.012 -4"><span class='ocrx_word' id='word_1_7' title='bbox 509 921 612 947; x_wconf 79' lang='lat' dir='ltr'><em>Second</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 625 919 793 951; x_wconf 77' lang='lat' dir='ltr'><em>Impression</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 846 937 853 943; x_wconf 83' lang='lat'>.</span> <span class='ocrx_word' id='word_1_10' title='bbox 921 936 927 943; x_wconf 76' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 964 924 1028 948; x_wconf 85' lang='lat'>1921</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 509 969 1027 997; baseline -0.01 -2"><span class='ocrx_word' id='word_1_12' title='bbox 509 970 611 995; x_wconf 82' lang='lat' dir='ltr'><strong><em>Second</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 623 969 736 994; x_wconf 75' lang='lat' dir='ltr'><em>Edition</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 771 987 776 993; x_wconf 87' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 847 986 853 991; x_wconf 94' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 923 985 928 990; x_wconf 82' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 965 974 1027 997; x_wconf 79' lang='lat'>1931</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 545 1954 982 1985">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 545 1954 982 1985">
+     <span class='ocr_line' id='line_1_4' title="bbox 545 1954 982 1985; baseline -0.016 0"><span class='ocrx_word' id='word_1_18' title='bbox 545 1957 671 1985; x_wconf 75' lang='lat' dir='ltr'><em>Printcd</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 688 1957 716 1981; x_wconf 86' lang='lat' dir='ltr'><em>in</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 736 1955 823 1980; x_wconf 76' lang='lat' dir='ltr'><em>Great</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 842 1954 982 1979; x_wconf 53' lang='lat' dir='ltr'><em>Britazns</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
